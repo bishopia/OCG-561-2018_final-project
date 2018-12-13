@@ -1,6 +1,6 @@
-#BIO-561 Final Poster
-#Ian Bishop
-#December 6th, 2018
+# BIO-561 Final Poster
+### Ian Bishop
+### December 6th, 2018
 
 
 ```library(here)
@@ -31,14 +31,11 @@ mypal2 <- c("#7fbf7b", "#1f78b4", "#af8dc3")
 my.palette <- c('#7f3b08','#b35806','#e08214','#fdb863','#fee0b6','#f7f7f7','#d8daeb','#b2abd2','#8073ac','#542788','#2d004b')
 
 mypal3 <- c("#05668D", "#CA5310", "#840032", "#5A5353")
+```
 
+## Brategg Expedition Data 
 
-
-#########################
-###-------HASLE-------###
-#########################
-
-
+```
 ###---initial data transformation---###
 
 #collapse to genus
@@ -151,12 +148,12 @@ p1 <- ggplot() +
 png("hasle_NMDS.png", res=300, width=3000, height=2000)
 p1
 dev.off()
+```
 
 
-#########################
-###-------GRIG-------###
-#########################
-  
+## AESOPS data
+
+```  
 #collapse to genus
 grig_gen <- aggregate(count ~ project + site + genus + datetime, data=grig_data, FUN=sum)  
 
@@ -296,14 +293,12 @@ annotate("text", x=0.31, y=0.65, label=paste("2d stress: ", round(grig_NMDS$stre
 png("grig_NMDS.png", res=300, width=3000, height=2000)
 p2
 dev.off()
+```
 
 
+## EISENEX Data
 
-
-#########################
-###-------ASSMY-------###
-#########################  
-
+``` 
 #collapse to genus
 assmy_gen <- aggregate(count ~ project + site + genus + depth, data=assmy_data, FUN=sum)  
 head(assmy_gen)
@@ -384,7 +379,9 @@ assmy_metrics <- left_join(assmy_metrics, metadata[,c("site", "lat")], by="site"
 ```
 
 
+## Bring together all three datasets
 
+```
 #combine abundance bar graphs
 assmy_sums2
 # grig_sums2$apf_side.y <- NULL
@@ -569,7 +566,7 @@ simp1 <- simper(wisconsin(gen_wide[,8:ncol(gen_wide)]) ~ as.factor(gen_wide$proj
 #correlation between latitude and species richness?
 lm1 <- lm(Shannon diversity ~ lat, data=metrics)
 metrics
-
+```
 
 
 
