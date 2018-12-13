@@ -403,10 +403,11 @@ psum4 <- ggplot(data=all_sums, aes(x=site, y=mean, fill=apf_side)) +
   scale_fill_manual(values=c(mypal3)) +
   theme_linedraw(30) +
   theme(legend.position="none")
+```
 
+### Metrics
 
-####----METRICS---###
-
+```
 metrics <- rbind(hasle_metrics, grig_metrics, assmy_metrics)
 #gather metrics into tidy single column
 metrics <- gather(metrics, key=metric, value=measurement, div, eve, rich)
@@ -484,10 +485,11 @@ gen_wide[gen_wide$project=="Brategg",]$depth <- "unknown"
 gen_wide[gen_wide$project=="AESOPS",]$depth <- "unknown"
 
 gen_wide[is.na(gen_wide)] <- 0
+```
 
+### Combined NMDS
 
-
-#combined NMDS
+```
 combo_matrix <- as.matrix(gen_wide[,8:ncol(grig_gen_wide)])
 all_NMDS=metaMDS(combo_matrix,k=2,trymax=100)
 all.scores <- as.data.frame(scores(all_NMDS))  #Using the scores function from vegan to extract the site scores and convert to a data.frame
@@ -523,16 +525,12 @@ p3 <- ggplot() +
   #       legend.text=element_text(size=9)) +
   # theme(axis.line = element_line(colour = 'black', size = 1)) +
   annotate("text", x=-.65, y=0.9, label=paste("2d stress: ", round(grig_NMDS$stress,3), sep=""))
+```
 
 
+### PERMANOVA
 
-
-
-
-
-
-########-----HYPOTHESIS TESTING-----#######
-
+```
 #test for zone(factor) differences, both within project and for all project together
 #permanova, permdisp
 #simper, to demonstrate with species are most important
@@ -557,15 +555,6 @@ betadisper(dist_gen_wide, as.factor(gen_wide$apf_side), type = "centroid")
 
 #adonis, test by both factors
 perm_by_zone <- adonis(formula = dist_gen_wide ~ as.factor(gen_wide$apf_side) + as.factor(gen_wide$project))
-
-
-#simper for project factor
-simp1 <- simper(wisconsin(gen_wide[,8:ncol(gen_wide)]) ~ as.factor(gen_wide$project))
-
-  
-#correlation between latitude and species richness?
-lm1 <- lm(Shannon diversity ~ lat, data=metrics)
-metrics
 ```
 
 
