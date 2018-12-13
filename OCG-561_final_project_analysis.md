@@ -3,7 +3,7 @@
 #December 6th, 2018
 
 
-library(here)
+```library(here)
 
 
 #libraries
@@ -381,6 +381,7 @@ assmy_metrics <- data_frame(project = assmy_gen_wide$project,
                            rich = richness_assmy$richness)
 #add latitude from metadata
 assmy_metrics <- left_join(assmy_metrics, metadata[,c("site", "lat")], by="site")
+```
 
 
 
