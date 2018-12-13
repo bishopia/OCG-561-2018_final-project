@@ -1,0 +1,112 @@
+/* DATA DESCRIPTION:
+Citation:	Grigorov, Ivo; Rigual-Hernandez, Andrés S; Honjo, Susumu; Kemp, Alan E S; Armand, Leanne K (2009): Diatom assamblage in samples from sediment trap NBP96-04A_MS2_trap. PANGAEA, https://doi.org/10.1594/PANGAEA.716672, 
+	In supplement to: Grigorov, I et al. (2014): Settling fluxes of diatoms to the interior of the Antarctic circumpolar current along 170°W. Deep Sea Research Part I: Oceanographic Research Papers, 93, 1-13, https://doi.org/10.1016/j.dsr.2014.07.008
+Project(s):	Antarctic Environments Southern Ocean Process Study (AESOPS) (URI: http://usjgofs.whoi.edu/southern.html)
+Coverage:	LATITUDE: -56.900000 * LONGITUDE: -170.166700
+	DATE/TIME START: 1996-11-28T00:00:00 * DATE/TIME END: 1998-01-10T00:00:00
+	MINIMUM DEPTH, water: 982 m * MAXIMUM DEPTH, water: 982 m
+Event(s):	NBP96-04A_MS2_trap (MS-2) * LATITUDE: -56.900000 * LONGITUDE: -170.166700 * DATE/TIME START: 1996-11-28T00:00:00 * DATE/TIME END: 1998-01-10T00:00:00 * ELEVATION: -4924.0 m * LOCATION: Southern Ocean * CAMPAIGN: NBP96-04A * BASIS: Nathaniel B. Palmer * DEVICE: Trap, sediment (TRAPS)
+Comment:	Numbers represent the calculated diatom flux as recorded by the mooring, and the individual species counts. The diatom flux [#/m**2/day] was calculated using two different methods in parallel, the dilution technique by Sanceta & Silvestri, 1984 (doi:10.1016/0377-8398(84)90016-1) and Batterbee, 1973 (doi:10.4319/lo.1973.18.4.0647).
+Parameter(s):	DEPTH, water [m] (Depth water) * GEOCODE
+	DATE/TIME (Date/Time) * GEOCODE
+	Date/time end (Date/time end) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com)
+	Duration, number of days [days] (Duration) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com)
+	Diatom valves flux [#/m**2/day] (Diatom valv flux) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Calculated, see reference(s)
+	Actinocyclus actinochilus [#] (A. actinochilus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Actinocyclus curvatulus [#] (A. curvatulus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Actinocyclus ehrenbergii [#] (A. ehrenbergii) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Actinocyclus ingens [#] (A. ingens) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Actinocyclus octonarius [#] (A. octonarius) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Asteriomphalus spp. [#] (Asteriomphalus spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Asteriomphalus hookeri [#] (A. hookeri) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Asteriomphalus hyalinus [#] (A. hyalinus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Asteriomphalus parvulus [#] (A. parvulus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Azpeitia tabularis [#] (A. tabularis) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros atlanticus [#] (C. atlanticus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros bulbosum [#] (C. bulbosum) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros criophilum [#] (C. criophilum) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros diadema [#] (C. diadema) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros dichaeta [#] (C. dichaeta) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros radicans [#] (C. radicans) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros spores [#] (Chaet spores) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Chaetoceros spp. [#] (Chaetoceros spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: A
+	Chaetoceros spp. [#] (Chaetoceros spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: B
+	Chaetoceros spp. [#] (Chaetoceros spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: C
+	Chaetoceros, vegetative cells [#] (Chaetoceros veg) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Corethron criophilum [#] (C. criophilum) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Dactyliozolen antarcticus, girdles [#] (D. antarcticus girdles) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: girdles not included in flux calculations
+	Delphineis suriela [#] (D. suriela) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Eucampia antarctica [#] (E. antarctica) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis curta [#] (F. curta) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis cylindrus [#] (F. cylindrus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis kerguelensis [#] (F. kerguelensis) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis obliquecostata [#] (F. obliquecostata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis pseudonana [#] (F. pseudonana) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis rhombica [#] (F. rhombica) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis ritscheri [#] (F. ritscheri) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Fragilariopsis separanda [#] (F. separanda) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Guinardia spp. [#] (Guinardia spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Hemidiscus cuneiformis [#] (H. cuneiformis) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Hemidiscus karstenii [#] (H. karstenii) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Navicula spp. [#] (Navicula spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Nitzschia interruptestriata [#] (N. interruptestriata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Plagiotropis gaussii [#] (P. gaussii) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Pleurosigma directum [#] (P. directum) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Pleurosigma spp. [#] (Pleurosigma spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Porosira alata [#] (P. alata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Porosira inermis [#] (P. inermis) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Pseudo-nitzschia bicapitata [#] (P-n bicapitata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Pseudo-nitzschia lineola [#] (P-n lineola) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Pseudo-nitzschia cf. hemii [#] (P-n cf. hemii) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Rhizosolenia antennata antennata [#] (R. antennata antennata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Rhizosolenia antennata forma semispina [#] (R. antennata f semispina) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Rhizosolenia sima forma sima [#] (R. sima f sima) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Rhizosolenia simplex [#] (R. simplex) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Rhizosolenia styliformis [#] (R. styliformis) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Roperia tesselata [#] (R. tesselata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Rouxia spp. [#] (Rouxia spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Stellarima spp. [#] (Stellarima spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassionema nitzschioides forma 1 [#] (T. nitzschioides f 1) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassionema nitzschioides var. lanceolata [#] (T. nitzschioides var. lanceolata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira antarctica [#] (T. antarctica) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira decipiens [#] (T. decipiens) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira gracilis [#] (T. gracilis) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira gravida [#] (T. gravida) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira lentiginosa [#] (T. lentiginosa) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira leptopus [#] (T. leptopus) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira lineata [#] (T. lineata) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira oestrupii [#] (T. oestrupii) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira oliverana [#] (T. oliverana) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Thalassiosira spp. [#] (Thalassiosira spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: A
+	Thalassiosira spp. [#] (Thalassiosira spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: B
+	Thalassiosira spp. [#] (Thalassiosira spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: C
+	Thalassiosira spp. [#] (Thalassiosira spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: D
+	Thalassiothrix antarctica [#] (T. antarctica) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Trichotoxon reinboldii [#] (T. reinboldii) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms
+	Distephanus speculum speculum [#] (D. speculum speculum) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, silicoflagellates
+	Dictyocha spp. [#] (Dictyocha spp.) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, silicoflagellates
+	Diatoms [#] (Diatoms) * PI: Grigorov, Ivo (https://orcid.org/0000-0001-6264-802X, ivo_grigorov@hotmail.com) * METHOD: Counting, diatoms * COMMENT: total counted
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	1540 data points
+*/
+Depth water [m]	Date/Time	Date/time end	Duration [days]	Diatom valv flux [#/m**2/day]	A. actinochilus [#]	A. curvatulus [#]	A. ehrenbergii [#]	A. ingens [#]	A. octonarius [#]	Asteriomphalus spp. [#]	A. hookeri [#]	A. hyalinus [#]	A. parvulus [#]	A. tabularis [#]	C. atlanticus [#]	C. bulbosum [#]	C. criophilum [#]	C. diadema [#]	C. dichaeta [#]	C. radicans [#]	Chaet spores [#]	Chaetoceros spp. [#] (A)	Chaetoceros spp. [#] (B)	Chaetoceros spp. [#] (C)	Chaetoceros veg [#]	C. criophilum [#]	D. antarcticus girdles [#]	D. suriela [#]	E. antarctica [#]	F. curta [#]	F. cylindrus [#]	F. kerguelensis [#]	F. obliquecostata [#]	F. pseudonana [#]	F. rhombica [#]	F. ritscheri [#]	F. separanda [#]	Guinardia spp. [#]	H. cuneiformis [#]	H. karstenii [#]	Navicula spp. [#]	N. interruptestriata [#]	P. gaussii [#]	P. directum [#]	Pleurosigma spp. [#]	P. alata [#]	P. inermis [#]	P-n bicapitata [#]	P-n lineola [#]	P-n cf. hemii [#]	R. antennata antennata [#]	R. antennata f semispina [#]	R. sima f sima [#]	R. simplex [#]	R. styliformis [#]	R. tesselata [#]	Rouxia spp. [#]	Stellarima spp. [#]	T. nitzschioides f 1 [#]	T. nitzschioides var. lanceolata [#]	T. antarctica [#]	T. decipiens [#]	T. gracilis [#]	T. gravida [#]	T. lentiginosa [#]	T. leptopus [#]	T. lineata [#]	T. oestrupii [#]	T. oliverana [#]	Thalassiosira spp. [#] (A)	Thalassiosira spp. [#] (B)	Thalassiosira spp. [#] (C)	Thalassiosira spp. [#] (D)	T. antarctica [#]	T. reinboldii [#]	D. speculum speculum [#]	Dictyocha spp. [#]	Diatoms [#]
+982	1996-11-28	1997-01-01	17	47750000	0	4	0	0	0	0	2	0	0	6	0	3.0	0	0	0	0	0	4	0	0	0	0.0	4	0	0	3	0	144	0	1	0	0	13	0.5	0	0	4	4	0	0	0	1	0	47	24.0	5	0	0	0	1	0	0	0	0	35	13	8	0	19	0	13	0	0	5	0	0	0	0	0	1.0	0.0	40	1	360.5
+982	1997-01-01	1997-01-18	17	106300000	0	0	0	0	0	0	2	0	0	6	0	1.0	0	0	0	0	0	0	0	0	0	0.5	46	0	0	0	0	173	0	5	0	1	12	0.5	0	0	6	3	0	0	0	6	0	48	25.0	16	0	0	0	4	1	0	0	0	13	6	1	0	9	0	3	0	0	4	1	0	0	0	0	1.0	0.0	21	1	348.0
+982	1997-01-18	1997-02-04	17	39350000	0	0	0	0	0	0	0	0	0	7	0	0.0	0	0	0	0	0	2	0	0	0	0.0	31	0	0	0	0	184	0	0	4	1	10	0.5	0	0	1	3	0	0	0	0	0	38	10.0	13	0	0	0	2	4	0	0	0	8	12	0	0	6	1	5	0	0	9	1	0	0	0	0	1.0	0.0	16	0	322.5
+982	1997-02-04	1997-02-21	17	12800000	0	0	0	0	0	0	0	0	0	7	9	1.0	0	0	0	0	0	1	0	0	0	0.0	22	0	0	1	0	178	0	1	0	0	5	0.0	0	0	3	0	0	0	0	2	0	29	7.0	10	0	0	0	0	3	0	0	0	9	10	0	0	13	0	11	0	0	6	0	0	0	0	0	0.5	0.0	16	2	306.5
+982	1997-02-21	1997-03-10	17	4650000	0	0	0	0	0	0	0	0	0	8	0	2.0	0	0	0	0	0	0	0	0	0	0.0	13	0	0	0	0	219	0	0	1	0	2	0.0	0	0	0	2	0	0	0	7	0	11	2.0	7	0	0	0	0	1	0	0	0	7	8	0	0	9	0	7	0	0	10	0	0	0	0	0	4.0	0.5	15	1	307.5
+982	1997-03-10	1997-03-27	17	5300000	0	0	0	0	0	0	0	0	0	3	0	1.0	0	0	0	0	0	0	0	0	0	0.0	20	0	0	0	0	226	0	0	0	0	2	0.5	0	0	0	0	0	0	0	5	0	10	1.0	2	0	0	0	1	1	0	0	0	6	12	1	0	8	0	9	0	0	8	0	0	0	0	0	2.0	0.0	9	0	298.5
+982	1997-03-27	1997-04-13	17	2550000	0	0	0	0	0	0	0	0	0	5	0	3.0	0	0	0	0	0	0	0	0	0	0.0	15	0	0	0	0	240	0	0	0	0	0	0.0	0	0	0	0	0	0	0	4	0	5	0.0	3	0	0	0	0	1	0	0	0	6	10	3	0	5	0	17	0	0	4	1	0	0	0	0	0.0	0.0	10	0	307.0
+982	1997-04-13	1997-04-30	17	1250000	0	5	0	0	0	0	0	0	0	11	0	2.0	0	0	0	0	0	0	0	0	0	0.0	9	0	0	0	0	231	0	0	0	0	0	0.0	0	0	0	0	0	0	0	1	0	2	0.0	0	0	0	0	1	0	0	0	0	2	15	0	0	5	0	16	0	0	7	3	0	0	0	0	2.0	0.0	14	1	303.0
+982	1997-04-30	1997-06-03	34	1150000	0	4	0	0	0	0	0	0	0	13	0	0.5	0	0	0	0	0	0	0	0	0	0.0	3	0	0	0	1	252	0	0	0	0	0	0.0	1	0	0	0	0	0	0	0	0	1	1.0	0	0	0	0	0	1	2	0	0	2	17	0	0	4	1	19	1	0	3	0	0	0	0	0	4.0	0.0	12	1	327.5
+982	1997-06-03	1997-07-24	51	850000	0	1	0	0	0	0	0	0	0	10	0	0.0	0	0	0	0	0	13	0	0	0	0.0	3	0	0	0	0	225	0	0	0	0	0	0.0	0	0	1	0	0	0	0	1	0	2	0.0	0	0	0	0	0	1	1	0	0	5	29	2	0	11	0	18	0	0	9	0	2	0	0	0	3.0	0.0	16	2	334.0
+982	1997-07-24	1997-08-27	34	100000	0	0	0	0	0	0	0	0	2	24	0	0.0	0	0	0	0	0	1	0	0	0	0.0	4	0	0	2	0	264	0	2	0	0	0	0.0	0	0	0	0	0	0	0	2	0	0	0.0	0	0	0	0	0	0	4	0	0	2	24	8	0	3	0	10	0	0	2	0	0	0	0	0	5.0	0.0	12	0	355.0
+982	1997-08-27	1997-09-13	17	300000	0	0	0	0	0	0	0	0	0	15	0	0.0	0	0	0	0	0	1	0	0	0	0.0	0	0	0	0	0	204	0	0	1	0	1	0.0	0	0	0	0	0	0	0	2	0	0	0.0	0	0	0	0	1	0	5	0	0	0	35	0	0	1	0	23	0	0	4	0	0	0	0	0	1.0	0.0	17	3	294.0
+982	1997-09-13	1997-09-30	17	700000	0	0	0	0	0	0	0	0	0	11	0	0.0	0	0	0	0	0	12	0	0	0	0.0	16	0	0	0	0	177	0	0	0	0	1	0.0	0	0	0	2	0	0	0	2	0	21	0.0	0	0	0	0	0	3	4	0	0	2	24	0	0	15	0	8	0	3	6	6	0	0	0	20	1.0	0.0	121	7	318.0
+982	1997-09-30	1997-10-17	17	10600000	0	3	0	0	0	0	1	0	1	7	0	4.0	0	0	0	0	0	1	0	0	0	0.0	26	0	0	0	0	95	0	0	3	0	7	0.0	0	0	0	2	0	0	0	2	0	63	0.0	0	0	0	0	0	0	0	5	0	5	0	0	0	25	0	4	0	1	8	0	0	0	0	69	0.5	0.0	106	1	306.5
+982	1997-10-17	1997-11-03	17	15700000	0	0	0	0	0	0	3	0	2	8	0	6.0	0	0	0	0	0	2	0	0	0	0.0	20	0	0	0	0	113	0	3	8	4	7	0.0	0	0	0	2	0	0	0	1	0	73	3.0	0	0	0	0	2	0	0	0	0	11	10	0	1	26	0	5	0	1	4	0	0	0	0	90	5.0	0.0	66	0	390.0
+982	1997-11-03	1997-11-20	17	31200000	0	0	0	0	0	0	3	0	0	7	0	5.0	0	0	0	0	0	0	0	0	0	0.0	8	0	0	0	0	85	0	11	5	2	5	0.0	0	0	0	3	1	0	0	0	0	29	4.0	0	0	0	0	1	0	0	0	0	20	7	0	1	30	0	13	0	5	10	0	0	0	0	57	0.5	0.0	48	0	304.5
+982	1997-11-20	1997-12-07	17	5600000	0	0	0	0	0	0	0	0	1	0	0	0.0	0	0	0	0	0	0	0	0	0	0.0	0	0	0	0	0	183	0	1	2	4	2	0.0	0	0	0	6	1	0	0	1	0	16	0.0	0	0	0	0	1	0	0	0	0	0	0	0	0	25	0	41	5	3	12	0	0	0	0	32	0.0	0.0	47	0	336.0
+982	1997-12-07	1997-12-24	17	6850000	0	0	0	0	0	0	2	0	0	14	0	2.0	0	0	0	0	0	0	0	0	0	0.0	0	0	0	0	0	132	0	8	3	0	3	0.0	0	0	0	14	0	0	0	2	0	48	0.0	1	0	0	0	3	3	0	0	0	17	2	0	0	22	0	15	0	3	3	0	0	0	0	30	0.0	0.0	37	1	327.0
+982	1997-12-24	1998-01-10	17	300000	0	0	0	0	0	0	0	0	0	13	0	0.0	0	0	0	0	0	0	0	0	0	0.0	0	0	0	0	0	191	0	0	0	0	0	0.0	0	0	0	3	0	0	0	1	0	7	0.0	0	0	0	0	2	2	0	0	0	10	3	0	3	14	0	35	0	2	13	0	0	0	0	8	2.0	0.0	27	5	309.0
+982	1998-01-10	1998-01-27	17	65800000	0	0	0	0	0	0	1	0	0	9	0	4.0	0	0	0	0	0	0	0	0	0	0.0	20	0	0	0	1	138	0	1	0	0	4	0.0	1	0	5	5	0	0	0	5	0	42	20.0	4	0	0	0	0	0	3	0	0	18	9	0	0	12	0	9	0	1	7	0	0	0	0	20	3.0	0.0	26	2	322.0
